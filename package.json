@@ -1,0 +1,26 @@
+{
+  "name": "oop-rpg-wtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-Robeck/OOP-RPG-WTESTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amber-Robeck/OOP-RPG-WTESTS/issues"
+  },
+  "homepage": "https://github.com/Amber-Robeck/OOP-RPG-WTESTS#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
