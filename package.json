@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Amber-Robeck/OOP-RPG-WTESTS#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
