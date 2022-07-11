@@ -11,7 +11,16 @@
 
  ## Description
 
+I have started updating this project with the following that were not included in the original project:
+* Adding a choose difficulty prompt allowing the user to choose the difficulty of the game.
+    - Easy: 1 enemy,
+    - Medium: 2 enemies,
+    - Hard: 3 enemies.
+* Added a flee prompt allowing the user to flee from the battle.
+* Added a radnom enemy generator to generate a random enemy.
+
 _Welcome to the Object-oriented programming's (OOP) version of a Role Playing Game! This game was created following along with the in class modules from Trilogy Education(2U)._ 
+
 
 This application:
 * is ran from the back-end and does not have a deployed page however adventure awaits you on the command line!
