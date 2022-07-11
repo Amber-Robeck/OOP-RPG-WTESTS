@@ -17,7 +17,7 @@ I have started updating this project with the following that were not included i
     - Medium: 2 enemies,
     - Hard: 3 enemies.
 * Added a flee prompt allowing the user to flee from the battle.
-* Added a radnom enemy generator to generate a random enemy.
+* Added a random enemy generator to generate a random enemy.
 
 _Welcome to the Object-oriented programming's (OOP) version of a Role Playing Game! This game was created following along with the in class modules from Trilogy Education(2U)._ 
 
